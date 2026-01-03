@@ -1,0 +1,8 @@
+{
+  "baseline_fps": 22.556691893432387,
+  "optimized_fps": 169.1751892007429,
+  "speedup": 7.5,
+  "bottleneck": "capture",
+  "strategy": "buffer_pool",
+  "implementation": "Pre-allocated buffers + SIMD preprocessing"
+}

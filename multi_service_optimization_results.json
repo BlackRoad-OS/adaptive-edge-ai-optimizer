@@ -1,0 +1,13 @@
+{
+  "placement": {
+    "preprocess_1": "pi5-hailo-1",
+    "inference_1": "pi5-hailo-1",
+    "postprocess_1": "pi5-hailo-1",
+    "aggregation_1": "pi5-hailo-1"
+  },
+  "total_latency_ms": 36.0,
+  "total_cost_cents": 0.0,
+  "throughput_fps": 37.5,
+  "bottleneck_node": "pi5-hailo-1",
+  "strategy": "evaluated"
+}
